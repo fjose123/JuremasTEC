@@ -4,8 +4,8 @@ O sistema visa alocar pessoas para para eventos diversos.
 - CRUDS:
     - Cadastro de:
 	- Motoristas
-        - Passageiros
-        - Viagem
+	- Passageiros
+	- Viagem
         
 - FUNCIONALIDADES:
     - Pedir Viagem ( Passageiro )
