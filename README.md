@@ -3,11 +3,11 @@ O sistema visa alocar pessoas para para eventos diversos.
 
 - CRUDS:
     - Cadastro de:
-		- Motoristas
+	- Motoristas
         - Passageiros
         - Viagem
         
-- FUNCIONALIDADEs:
+- FUNCIONALIDADES:
     - Pedir Viagem ( Passageiro )
     - Olhar Lobby ( Turma da Viagem ) ( todos )
     - Cadastrar Dias Livre ( Motorista ) 
