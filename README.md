@@ -1,9 +1,9 @@
 # JuremasTEC - LotaUber  -> Sistema de controle de viagens para eventos
 O sistema visa alocar pessoas para para eventos diversos.
 
- CRUDS:
+- CRUDS:
     - Cadastro de:
-        - Motoristas
+		- Motoristas
         - Passageiros
         - Viagem
         
