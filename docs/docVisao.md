@@ -7,10 +7,10 @@ Perfis dos Usuários
 
 	1. Perfil Administrador
 		Este perfil tem acesso a todos os dados, e pode alterar dependendo da nescessidade.
-	1. Perfil Motorista
+	2. Perfil Motorista
 		Este usuario tem acesso a funcionalidades, como cadastrar viagens, para que os passsageiros possam usar.
 
-	2. Perfil Passageiro
+	3. Perfil Passageiro
 		Este usuario pode buscar e entrar em uma viagem, seja individualmente quanto em grupo.
 
 ## Riscos
