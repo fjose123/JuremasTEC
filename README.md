@@ -41,9 +41,5 @@ O projeto vai ser usado as seguintes tecnologias:
 
 [CodeIgniter Essencial - Introdução e instalação](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) 
 ## License
-----
-
 GPL 3
-
-
-**of this license document, but changing it is not allowed.**
+**of this license document, but changing it is not allowed.*
