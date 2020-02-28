@@ -14,20 +14,9 @@ O LocationVan visa alocar pessoas para Motoristas de Vans para eventos diversos.
 Os requisitos funcionais detalhados estão na página wiki [Requisitos Funcionais](https://github.com/).
 ## Documentação
 Aqui está os documentos produzidos:
-1. Documento de Visão [Documento de Visão](https://github.com/fjose123/LocationVAN/blob/master/docs/docVisao)
-2. Modelo de dados [Modelo de Dados](https://github.com/fjose123/LocationVAN/blob/master/docs/modDados)
-3. Modelo conceitual [Modelo Conceitual](https://github.com/fjose123/LocationVAN/blob/master/docs/modConceitual)
-
-- CRUDS:
-    - Cadastro de:
-		- Motoristas
-		- Passageiros
-	    - Viagem
-- FUNCIONALIDADES:
-    - Pedir Viagem ( Passageiro )
-    - Olhar Lobby ( Turma da Viagem ) ( todos )
-    - Cadastrar Dias Livre ( Motorista ) 
-    - Graficos para Motorista ( para saber quão completo está as viagens  / desistencias e tudo mais. )
+1. Documento de Visão ->[Documento de Visão](https://github.com/fjose123/LocationVAN/blob/master/docs/docVisao)
+2. Modelo de dados ->[Modelo de Dados](https://github.com/fjose123/LocationVAN/blob/master/docs/modDados)
+3. Modelo conceitual ->[Modelo Conceitual](https://github.com/fjose123/LocationVAN/blob/master/docs/modConceitual
 
 ## Tecnologias
 
@@ -47,3 +36,17 @@ O projeto vai ser usado as seguintes tecnologias:
 GPL 3
 
 **of this license document, but changing it is not allowed.**
+
+
+## RASCUNHOS	
+
+- CRUDS:
+    - Cadastro de:
+		- Motoristas
+		- Passageiros
+	    - Viagem
+- FUNCIONALIDADES:
+    - Pedir Viagem ( Passageiro )
+    - Olhar Lobby ( Turma da Viagem ) ( todos )
+    - Cadastrar Dias Livre ( Motorista ) 
+    - Graficos para Motorista ( para saber quão completo está as viagens  / desistencias e tudo mais. )
