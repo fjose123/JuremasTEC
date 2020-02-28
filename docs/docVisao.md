@@ -10,6 +10,3 @@ Perfis dos Usuários
 
 	2. Perfil Professor
 		Este usuário utiliza ……..
-
-
-jgjhghghg
