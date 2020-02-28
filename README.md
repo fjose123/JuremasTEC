@@ -16,7 +16,7 @@ Os requisitos funcionais detalhados estão na página wiki [Requisitos Funcionai
 Aqui está os documentos produzidos:
 1. Documento de Visão ->[Documento de Visão](https://github.com/fjose123/LocationVAN/blob/master/docs/docVisao)
 2. Modelo de dados ->[Modelo de Dados](https://github.com/fjose123/LocationVAN/blob/master/docs/modDados)
-3. Modelo conceitual ->[Modelo Conceitual](https://github.com/fjose123/LocationVAN/blob/master/docs/modConceitual
+3. Modelo conceitual ->[Modelo Conceitual](https://github.com/fjose123/LocationVAN/blob/master/docs/modConceitual)
 
 ## Tecnologias
 
