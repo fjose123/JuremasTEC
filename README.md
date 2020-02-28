@@ -26,7 +26,7 @@ Na página [Documentação](https://github.com/) temos os detalhes do projeto e 
     - Cadastrar Dias Livre ( Motorista ) 
     - Graficos para Motorista ( para saber quão completo está as viagens  / desistencias e tudo mais. )
 
-### Tecnologias
+## Tecnologias
 
 O projeto vai ser usado as seguintes tecnologias:
 * [PHP 7.4.3] - é uma linguagem popular de script de uso geral, especialmente adequada ao desenvolvimento da Web!
@@ -42,4 +42,5 @@ O projeto vai ser usado as seguintes tecnologias:
 [CodeIgniter Essencial - Introdução e instalação](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) 
 ## License
 GPL 3
-**of this license document, but changing it is not allowed.*
+
+**of this license document, but changing it is not allowed.**
