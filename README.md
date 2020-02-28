@@ -2,8 +2,8 @@
 
 ## Sumário
 1. [Informações Gerais](#general-info)
-    1.1 [Requisitos Funcionais](#functional-requirements)
-    1.2 [Documentação](#documentation)
+	1.1 [Requisitos Funcionais](#functional-requirements)
+	1.2 [Documentação](#documentation)
 2. [Tecnologias](#technologies)
 3. [Tutoriais](#tutorials)
 4. [Licença](#license)
