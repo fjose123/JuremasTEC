@@ -5,11 +5,13 @@ O Sistema LocationVAN foi criado para modificar a forma que as viagens são feit
 Perfis dos Usuários
 	O sistema poderá ser utilizado por diversos usuários. Temos os seguintes perfis:
 
-	1. Perfil Aluno
-		Este usuário utiliza o sistema para verificar suas notas, acessar o plano de aulas e o material das aulas, referências, tarefas, etc.
+	1. Perfil Administrador
+		Este perfil tem acesso a todos os dados, e pode alterar dependendo da nescessidade.
+	1. Perfil Motorista
+		Este usuario tem acesso a funcionalidades, como cadastrar viagens, para que os passsageiros possam usar.
 
-	2. Perfil Professor
-		Este usuário utiliza ……..
+	2. Perfil Passageiro
+		Este usuario pode buscar e entrar em uma viagem, seja individualmente quanto em grupo.
 
 ## Riscos
 
