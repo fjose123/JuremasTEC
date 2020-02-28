@@ -10,3 +10,14 @@ Perfis dos Usuários
 
 	2. Perfil Professor
 		Este usuário utiliza ……..
+
+## Riscos
+
+	Logo abaixo está listado todos os riscos da implementação inicial, podendo ser alterado ou adicionado novos fatores de acordo com o andamento do projeto.
+
+Data | Risco | Prioridade | Responsável | Status | Providência/Solução
+-- | -- | -- | -- | -- | --
+28/02/2020 | Não aprendizado das ferramentas utilizadas pelos componentes do grupo a tempo | Alta | Todos | Vigente | Reforçar estudos sobre as ferramentas e receber apoio dos integrantes que dominam o mesmo
+28/02/2020 | Ausência por qualquer motivo do cliente | Média | Gerente | Vigente | Planejar o cronograma tendo em base a agenda do cliente e orientar a equipe
+28/02/2020 | Divisão de tarefas mal sucedida | Baixa | Gerente | Vigente | Acompanhar o desenvolvimento de cada membro da equipe e estimar tempo necessário para conclusão das tarefas
+28/02/2020 | Implementação de protótipo com as tecnologias escolhidas pela equipe | Alta | Todos | Vigente | Buscar tutoriais e a documentação das tecnologias para implementar os primeiros casos
