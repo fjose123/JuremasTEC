@@ -9,47 +9,47 @@ O Sistema **LocationVAN** foi criado para modificar a forma que as viagens são 
 ## 2. Descrição Geral
    ### 1. Requisitos Funcionais
    
-|    Identificador          | RF001               |
-|----------------|-------------------------------|
-|**Nome**| Cadastrar Usuario 
-|**Descrição**          |Requisito para a criação de usuarios, que eles criem o seu perfil e possam usufruir de todos os beneficios de ser um usuario.   |
-|**Prioridade**           |Alta|
-|| ||
+| Identificador  | RF001                                                                                                                         |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**       | Cadastrar Usuario                                                                                                             |
+| **Descrição**  | Requisito para a criação de usuarios, que eles criem o seu perfil e possam usufruir de todos os beneficios de ser um usuario. |
+| **Prioridade** | Alta                                                                                                                          |
+|                |                                                                                                                               |  |
 ---
-|    Identificador          | RF002               |
-|----------------|-------------------------------|
-|**Nome**| Cadastrar Motorista
-|**Descrição**          |Requisito para que o Usuário, criado anteriormente possa se cadastrar como Motorista para que ele possa criar vagas ou viagens no Aplicativo.|
-|**Prioridade**           |Alta|
-|| ||
+| Identificador  | RF002                                                                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**       | Cadastrar Motorista                                                                                                                           |
+| **Descrição**  | Requisito para que o Usuário, criado anteriormente possa se cadastrar como Motorista para que ele possa criar vagas ou viagens no Aplicativo. |
+| **Prioridade** | Alta                                                                                                                                          |
+|                |                                                                                                                                               |  |
 ---
-|    Identificador          | RF003               |
-|----------------|-------------------------------|
-|**Nome**| Cadastrar Viagem
-|**Descrição**          |Requisito para que o Motorista, cadastrado anteriormente possa cadastrar uma viagem, para assim achar outros passageiros.|
-|**Prioridade**           |Alta|
-|| ||
+| Identificador  | RF003                                                                                                                     |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**       | Cadastrar Viagem                                                                                                          |
+| **Descrição**  | Requisito para que o Motorista, cadastrado anteriormente possa cadastrar uma viagem, para assim achar outros passageiros. |
+| **Prioridade** | Alta                                                                                                                      |
+|                |                                                                                                                           |  |
 ---
-|    Identificador          | RF004               |
-|----------------|-------------------------------|
-|**Nome**| Cadastrar Viagem ( Passageiro )
-|**Descrição**          |Requisito para que o Usuário Passageiro, possa demandar uma vaga para uma viagem, seja ela excursão ou lotação. |
-|**Prioridade**           |Alta|
-|| ||
+| Identificador  | RF004                                                                                                           |
+| -------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Nome**       | Cadastrar Viagem ( Passageiro )                                                                                 |
+| **Descrição**  | Requisito para que o Usuário Passageiro, possa demandar uma vaga para uma viagem, seja ela excursão ou lotação. |
+| **Prioridade** | Alta                                                                                                            |
+|                |                                                                                                                 |  |
 ---
-|    Identificador          | RF005               |
-|----------------|-------------------------------|
-|**Nome**| Cadastrar Viagem ( Passageiro ) // Excursão
-|**Descrição**          |Requisito para que o Usuário Passageiro ou um grupo, possa demandar vagas para uma  certa viagem, seja ela excursão ou lotação. Visando assim viajar esse grupo todo junto. |
-|**Prioridade**           |Alta|
-|| ||
+| Identificador  | RF005                                                                                                                                                                       |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**       | Cadastrar Viagem ( Passageiro ) // Excursão                                                                                                                                 |
+| **Descrição**  | Requisito para que o Usuário Passageiro ou um grupo, possa demandar vagas para uma  certa viagem, seja ela excursão ou lotação. Visando assim viajar esse grupo todo junto. |
+| **Prioridade** | Alta                                                                                                                                                                        |
+|                |                                                                                                                                                                             |  |
 ---
-|    Identificador          | RF006               |
-|----------------|-------------------------------|
-|**Nome**| Desistir de Viagem
-|**Descrição**          |Requisito para que o Usuário Passageiro ou mesmo o condutor, possa desistir da viagem. |
-|**Prioridade**           |Alta|
-|| ||
+| Identificador  | RF006                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------- |
+| **Nome**       | Desistir de Viagem                                                                     |
+| **Descrição**  | Requisito para que o Usuário Passageiro ou mesmo o condutor, possa desistir da viagem. |
+| **Prioridade** | Alta                                                                                   |
+|                |                                                                                        |  |
    
    ### 2. Requisitos não-funcionais
    
@@ -105,9 +105,9 @@ O intuito do projeto é promover uma plataforma fluida e fácil de operar, e bus
 ## 3. Histórico de Revisões
 
 
-| Data       | Versão | Descrição         | Autor                                                   |
-| ---------- | ------ | ----------------- | ------------------------------------------------------- |
-| 28/02/2020 | 0.0.1  | Documento Inicial | [Fernando José dos Santos](https://github.com/fjose123) |
-| --/--/2020 |        |                   |                                                         |
-| --/--/2020 |        |                   |                                                         |
-| --/--/2020 |        |                   |                                                         |
+| Data       | Versão | Descrição         | Autor                 |
+| ---------- | ------ | ----------------- | --------------------- |
+| 28/02/2020 | 0.0.1  | Documento Inicial | **JuremasTEC Social** |
+| --/--/2020 |        |                   |                       |
+| --/--/2020 |        |                   |                       |
+| --/--/2020 |        |                   |                       |
