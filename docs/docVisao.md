@@ -98,6 +98,9 @@ A determinação de dependências implica na sequência da execução das ativid
 	- Ficar atento às regras de negócios e definir bem a cláusula para quando houver solicitação de alteração da lógica de negócio por parte do cliente.
    
    ### 6. Perspectiva do Produto
+A perspectiva geral do projeto LocationVAN é otimizar o sistema de lotação de veículos, onde os usuários (que são os clientes do serviço) podem consultar as datas e verificar a disponibilidade de vagas para completar a lotação, dependendo da quantidade de pessoas que precisarem do mesmo. Já no perfil de motorista (responsável pelo serviço), tem acesso ao cadastro e alteração de datas e horários para promoção das viagens, onde estará sendo anexado na base de dados do sistema, permitindo a consulta por parte do usuário e o interesse de fazer o percurso de deslocamento.
+
+O intuito do projeto é promover uma plataforma fluida e fácil de operar, e buscar uma solução viável de rápido acesso, através da internet, para um ramo que movimenta boa parte dos negócios na região.
 
 ## 3. Histórico de Revisões
 
