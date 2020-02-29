@@ -52,6 +52,18 @@ O Sistema **LocationVAN** foi criado para modificar a forma que as viagens são 
 |                |                                                                                        |  |
    
    ### 2. Requisitos não-funcionais
+| Identificador  | RNF001                                                                                                                         |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**       | Acessibilidade                                                                                                            |
+| **Descrição**  | Deve ser acessivel pelo o navegador. |
+|                |                                                                                                                      
+
+---
+| Identificador  | RNF002                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------- |
+| **Nome**       | Portabilidade                                                                     |
+| **Descrição**  | O sistema deve roda em sistemas operacionais Linux, Windows, Android e IOS |
+|                |                                                                                        |  |
    
    ### 3. Perfis dos usuários
    O sistema poderá ser utilizado por diversos usuários. Temos os seguintes perfis:
