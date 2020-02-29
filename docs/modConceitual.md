@@ -1,1 +1,1 @@
-
+![Diagrama de Classe **LocationVan**](../docs/diagramas/Diagrama&#32;de&#32;Classe/Class&#32;Diagram0.png)
