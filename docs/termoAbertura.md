@@ -1,4 +1,4 @@
-# TERMO DE ABERTURA DE PROJETO
+# TERMO DE ABERTURA DO PROJETO
 
 1. Equipe e definição de papéis
 
